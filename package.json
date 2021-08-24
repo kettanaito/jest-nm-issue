@@ -1,0 +1,13 @@
+{
+  "name": "jest-nm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Artem Zakharchenko",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
